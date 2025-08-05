@@ -1,6 +1,4 @@
-# PA-PC_202231056_RAHMI-NUR-HIDAYAH_C
-## UAS PENGOLAHAN CITRA DIGITAL C
-### SIGMENTASI DAUN
+# SIGMENTASI DAUN
 
 #### Tahap Pengerjaan Proyek :
 Di sini, gambar yang akan saya oleh adalah hasil jepretan saya sendiri dan telah saya simpan dalam folder yang sama dengan file Python saya. Berikut adalah langkah-langkah pengolahannya :
